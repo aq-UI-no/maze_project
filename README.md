@@ -2,8 +2,6 @@
 
 ![](readme_images/maze.gif)
 
-[Project landing page](https://deperiersa.wixsite.com/the-maze)
-
 ## Install
 
 Ubuntu: sudo apt-get install libsdl2-dev
@@ -36,7 +34,7 @@ The player can use the arrows keys to move inside the maze, there is no exit.
 
 ## My story
 
-The Maze game has been done for the final project of the first year at Holberton School.
+The Maze game has been done for the final project of the first sprint.
 
 As a gamer, and developer, I want my future job to be a Virtual Reality / Augmented Reality game developer,
 so making a game for my final project was an evidence for me.
@@ -90,4 +88,4 @@ https://github.com/elanthis/upng
 
 ## Author
 
-Alrick Deperiers <deperiers.a@gmail.com>
+tiffany aquino
